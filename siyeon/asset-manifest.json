@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mini-project/siyeon/static/css/main.fbfed9ab.css",
+    "main.js": "/mini-project/siyeon/static/js/main.861eb5e9.js",
+    "static/js/453.8bf13ba5.chunk.js": "/mini-project/siyeon/static/js/453.8bf13ba5.chunk.js",
+    "static/media/material-icons-latin-400-normal.woff": "/mini-project/siyeon/static/media/material-icons-latin-400-normal.ec276a3b4c1b27cdbab7.woff",
+    "static/media/material-icons-latin-400-normal.woff2": "/mini-project/siyeon/static/media/material-icons-latin-400-normal.0c35d18bf06992036b69.woff2",
+    "index.html": "/mini-project/siyeon/index.html",
+    "main.fbfed9ab.css.map": "/mini-project/siyeon/static/css/main.fbfed9ab.css.map",
+    "main.861eb5e9.js.map": "/mini-project/siyeon/static/js/main.861eb5e9.js.map",
+    "453.8bf13ba5.chunk.js.map": "/mini-project/siyeon/static/js/453.8bf13ba5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbfed9ab.css",
+    "static/js/main.861eb5e9.js"
+  ]
+}
